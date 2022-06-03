@@ -1,3 +1,5 @@
+Immortalgram is a website where the users can store their memorable photos by signing into their google account. This uses Firebase storage and authentication.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
